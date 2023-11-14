@@ -20,7 +20,4 @@ I'm a software engineer based in Lviv,UA.
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-lilac-chi-58.vercel.app/api?username=PetroPavlenko&count_private=true&show_icons=true&theme=dark">
-  <img alt="" src="https://github-readme-stats-lilac-chi-58.vercel.app/api?username=PetroPavlenko&count_private=true&show_icons=true&theme=dark">
-</picture>
+![Petro's GitHub stats](https://github-readme-stats-lilac-chi-58.vercel.app/api?username=PetroPavlenko&count_private=true&show_icons=true&theme=dark)

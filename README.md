@@ -20,4 +20,4 @@ I'm a software engineer based in Lviv,UA.
 
 
 
-![Petro's GitHub stats](https://github-readme-stats-lilac-chi-58333.vercel.app/api?username=PetroPavlenko&count_private=true&show_icons=true&theme=dark)
+![Petro's GitHub stats](https://github-readme-stats-petropavlenko.vercel.app/api?username=PetroPavlenko&count_private=true&show_icons=true&theme=dark)

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer based in Lviv,UA.
+I'm a software engineer based in Lviv, UA.
 
 
 
